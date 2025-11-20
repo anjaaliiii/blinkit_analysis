@@ -23,4 +23,4 @@ SQL: For all data cleanup and metric calculations.
 Dashboard Image
 Here is a quick look at the interactive dashboard:
 
-![Blinkit Dashboard Screenshot](uploaded:image_20b915.png-9ae2138b-1dc8-4bb2-ad7c-7571545ebfd5)
+uploaded:image_20bc9f.png-3a633756-5ac7-4a62-bfb0-38e6e9d1063c
