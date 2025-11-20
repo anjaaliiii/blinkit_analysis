@@ -20,9 +20,13 @@ SQL: For all data cleanup and metric calculations.
 
 
 
-Dashboard Image
+
+
 Here is a quick look at the interactive dashboard:
 
+![blinkit_dashboardvid](https://github.com/user-attachments/assets/bc2d5293-597c-4b57-ac2f-b97dbc700bca)
+
+Dashboard Image
 <img width="1267" height="648" alt="Screenshot 2025-09-16 231226" src="https://github.com/user-attachments/assets/24722efc-da1e-43d0-b717-2557fec9ca37" />
 
 
