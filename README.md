@@ -23,4 +23,7 @@ SQL: For all data cleanup and metric calculations.
 Dashboard Image
 Here is a quick look at the interactive dashboard:
 
+<img width="1267" height="648" alt="Screenshot 2025-09-16 231226" src="https://github.com/user-attachments/assets/24722efc-da1e-43d0-b717-2557fec9ca37" />
+
+
 uploaded:image_20bc9f.png-3a633756-5ac7-4a62-bfb0-38e6e9d1063c
