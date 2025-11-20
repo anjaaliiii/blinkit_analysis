@@ -12,11 +12,15 @@ Calculated KPIs: We calculated key metrics like Average Order Value, Delivery Ti
 Built a Dashboard: We created an interactive Power BI dashboard to show the results visually.
 
 
+
 💻 Tools Used
 Power BI: For the interactive dashboard.
 
 SQL: For all data cleanup and metric calculations.
 
+
+
 Dashboard Image
 Here is a quick look at the interactive dashboard:
-C:\Users\sushm\OneDrive\Pictures\Screenshots\Screenshot 2025-09-16 231226.png
+
+![Blinkit Dashboard Screenshot](uploaded:image_20b915.png-9ae2138b-1dc8-4bb2-ad7c-7571545ebfd5)
